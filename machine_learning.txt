@@ -1,0 +1,5 @@
+
+Machine Learning supervised learning unsupervised learning reinforcement learning
+ML is a branch of Artificial Intelligence that enables systems to learn from data.
+Neural networks deep learning are subsets of Machine Learning.
+Applications include image recognition, NLP, recommendation systems.

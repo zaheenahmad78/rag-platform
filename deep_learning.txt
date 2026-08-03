@@ -1,0 +1,5 @@
+
+Deep Learning neural networks deep learning uses multiple layers.
+CNN RNN Transformer are neural network architectures.
+Deep learning is used in computer vision NLP speech recognition.
+Neural networks have input layer hidden layers output layer.

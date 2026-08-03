@@ -1,0 +1,18 @@
+RAG (Retrieval-Augmented Generation) is a powerful technique that combines information retrieval with large language models.
+
+Benefits of RAG:
+1. More accurate and factual responses
+2. Reduced hallucinations
+3. Access to up-to-date information
+4. Source attribution and transparency
+
+RAG works by first retrieving relevant documents from a knowledge base, then using them as context for the language model.
+
+RAG is widely used in:
+- Customer support chatbots
+- Research assistants
+- Legal document analysis
+- Medical information retrieval
+
+Machine Learning is a subset of Artificial Intelligence that enables systems to learn from data.
+Deep Learning is a subset of Machine Learning that uses neural networks.

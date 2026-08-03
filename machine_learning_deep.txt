@@ -1,0 +1,20 @@
+
+    Machine Learning (ML) enables computers to learn from data without explicit programming.
+    
+    Types of ML:
+    1. Supervised Learning: Trained on labeled data (e.g., classification, regression)
+    2. Unsupervised Learning: Finds patterns in unlabeled data (e.g., clustering)
+    3. Reinforcement Learning: Learns through trial and error (e.g., game playing)
+    
+    Deep Learning is a subset of ML using neural networks with multiple layers.
+    Neural networks consist of:
+    - Input layer: Receives data
+    - Hidden layers: Process information
+    - Output layer: Produces results
+    
+    Applications:
+    - Computer vision
+    - Natural language processing
+    - Speech recognition
+    - Autonomous systems
+    

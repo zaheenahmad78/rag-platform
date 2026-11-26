@@ -1,0 +1,19 @@
+
+    Data Science combines statistics, programming, and domain expertise.
+    
+    The data science lifecycle:
+    1. Data Collection: Gathering relevant data from various sources
+    2. Data Cleaning: Removing errors and inconsistencies
+    3. Data Exploration: Understanding patterns and relationships
+    4. Feature Engineering: Creating meaningful variables
+    5. Model Building: Training predictive algorithms
+    6. Model Evaluation: Assessing performance and accuracy
+    7. Deployment: Implementing solutions in production
+    
+    Essential tools:
+    - Python, R for analysis
+    - SQL for data querying
+    - Pandas, NumPy for data manipulation
+    - Matplotlib, Plotly for visualization
+    - Scikit-learn, TensorFlow for ML
+    

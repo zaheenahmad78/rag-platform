@@ -1,0 +1,5 @@
+
+RAG retrieval augmented generation uses retrieval to improve responses.
+RAG benefits include accuracy transparency freshness customization.
+RAG reduces hallucinations and provides source attribution.
+RAG combines information retrieval with large language models.
